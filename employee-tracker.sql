@@ -1,6 +1,6 @@
-CREATE DATABASE testname;
+CREATE DATABASE employee_tracker;
 
-USE testname;
+USE employee_tracker;
 
 CREATE TABLE department (
   id INT AUTO_INCREMENT,
