@@ -41,8 +41,9 @@ Also included are application tests and HTML templates that can be modified as a
 
 In order to use this application you simply run app.js in its terminal ("node app"), and answer the prompts accordingly.  You are able to add as many employees as you would like, regardless of job title.  The HTML template takes care of arranging them in an org chart format of rows starting with manager, then engineer and intern.
 
-[Demonstration](https://www.youtube.com/watch?v=MX3gFureao8)
-[Demonstration #2](https://www.youtube.com/watch?v=8hAooVAP3S0)
+[Demonstration | overview & view functions](https://www.youtube.com/watch?v=w48XsXep2bc&t)
+[Demonstration | add department/role/manager functions](https://www.youtube.com/watch?v=fDIFrE-xfAw)
+[Demonstration | modify role/manager functions](https://www.youtube.com/watch?v=nmxNC3FbKGg)
 
 _________________________________
   
